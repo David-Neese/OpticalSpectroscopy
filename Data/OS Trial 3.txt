@@ -1,0 +1,30 @@
+Modern Physics Optical Spectroscopy Lab 
+Data taken from emission of Helium Gas spectra tube measured with spectrometer using grating.
+Date: 4/16/25 
+
+Zero point: 56.0 deg
+Grating: 600 lines/mm
+
+Index	Angle (deg)	Color
+1	69.6		faint_indigo
+1	70.0		faint_indigo
+1	70.5		faint_indigo
+1	71.3		faint_blue
+1	71.6		blue
+1	72.5		blue-green
+1	73.2		grass_green
+1	73.6		green-yellow
+1	73.7		crimson
+1	76.7		orange-yellow
+1	79.7		red
+1	81.2		faint_red
+2	88.0		faint_purple
+2	88.7		blue
+2	90.8		faint_blue-green
+2	92.5		faint_grass_green
+2	93.4		faint_green-yellow
+2	93.7		faint_crimson-brown
+2	101.4		orange-yellow
+2	101.6		light_red
+3	110.7		faint_indigo
+3	110.9		faint_indigo

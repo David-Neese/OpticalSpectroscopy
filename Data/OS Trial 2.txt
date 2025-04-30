@@ -1,0 +1,17 @@
+Modern Physics Optical Spectroscopy Lab 
+Data taken from emission of Hydrogen spectra tube measured with spectrometer using grating.
+Date: 4/16/25 
+
+Zero point: 56.0 deg
+Grating: 600 lines/mm
+
+Index	Angle (deg)	Color
+1	41.4		faint_purple
+1	40.9		bright_purple
+1	39.0		blue
+1	32.8		red
+2	24.8		bright_violet
+2	22.4		violet
+2	20.5		blue
+2	4.7		red
+3	-3.8		blue
